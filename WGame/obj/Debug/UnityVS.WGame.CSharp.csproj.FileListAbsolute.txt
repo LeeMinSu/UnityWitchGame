@@ -1,0 +1,13 @@
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\obj\Debug\UnityVS.WGame.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\LeeMinSu\Desktop\ExUnityProject\WitchGame\WGame\obj\Debug\Assembly-CSharp.pdb
