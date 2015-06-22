@@ -60,6 +60,13 @@
     <Compile Include="Assets\BookEx\3_Script\ButtonClicked.cs" />
     <Compile Include="Assets\BookEx\3_Script\Delete.cs" />
     <Compile Include="Assets\BookEx\3_Script\Effect_del.cs" />
+    <Compile Include="Assets\ETCTest\Count.cs" />
+    <Compile Include="Assets\ETCTest\CreateGC.cs" />
+    <Compile Include="Assets\ETCTest\ForTest.cs" />
+    <Compile Include="Assets\ETCTest\ForeachTest.cs" />
+    <Compile Include="Assets\ETCTest\IEumeratorTest.cs" />
+    <Compile Include="Assets\ETCTest\IterTestScript.cs" />
+    <Compile Include="Assets\ETCTest\UpdaterTest.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipItems.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" />
