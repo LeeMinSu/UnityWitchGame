@@ -12,7 +12,7 @@ public class CreateGC : MonoBehaviour {
 	
 	}
 	
-	// Update is called once per frame
+	// Update is called once per frame O
 	void Update () {
 	
         cTest A = new cTest();
