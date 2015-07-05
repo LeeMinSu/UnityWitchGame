@@ -3,15 +3,25 @@ using System.Collections;
 
 public class UIMgr : MonoBehaviour {
 
-    public const int TotalGetPum = 127;
+    public const int TotalGetPum = 20;
     public int CurGetPum = 0;
+    delegate void GameComplete();
+    private GameComplete CallbackCompleteGame;
     UISprite _ScoreBar;
+    public TweenPosition Result;
+
 	void Start () {
+        CallbackCompleteGame = OnEndGame;
         GameObject [] obj= GameObject.FindGameObjectsWithTag("ScoreBar");
         _ScoreBar = obj[0].GetComponent<UISprite>();
-        int a = 0;
-
 	}
+    private void OnEndGame()
+    {
+        Result.gameObject.SetActive(true);
+        Result.ResetToBeginning();
+        Time.timeScale = 0.0f;
+
+    }
 	
 	// Update is called once per frame
 	public void Update () {
@@ -22,6 +32,10 @@ public class UIMgr : MonoBehaviour {
     {
         ++CurGetPum;
         Debug.Log(CurGetPum);
-        _ScoreBar.fillAmount = CurGetPum  * 0.008f; 
+        _ScoreBar.fillAmount = CurGetPum  * 0.05f; 
+        //if( CurGetPum == 200 )
+        //{
+        //    CallbackCompleteGame();
+        //}
     }
 }
